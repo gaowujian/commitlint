@@ -1,0 +1,13 @@
+{
+  "name": "test-commitlint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
